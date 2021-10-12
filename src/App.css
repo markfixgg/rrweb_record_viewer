@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  min-width: 100%;
+  min-height: 100%;
+}
+
+.wrapper {
+  display: flex;
+  justify-content: center;
+}

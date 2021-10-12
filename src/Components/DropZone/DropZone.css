@@ -1,0 +1,14 @@
+.dropzone {
+    width: 600px;
+    height: 150px;
+    color: white;
+    background: darkslategray;
+    position: relative;
+}
+
+.wrap_center {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
